@@ -29,7 +29,7 @@ gem 'letter_opener', group: :development
 # Add activeAdmin to generate an admin interface
 gem 'activeadmin', github: 'gregbell/active_admin'
 
-# Add devise to support login activeAdmin
+# Add devise to support login for activeAdmin
 gem 'devise'
 
 # Use SCSS for stylesheets
